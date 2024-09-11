@@ -1,5 +1,4 @@
 #
-# header comment! Overview, name, etc.
 # Name: Taria Reese
 # Project 1: CTA Database App
 # Overview: Program that uses python and SQL to
